@@ -7,9 +7,7 @@ def find_element_index(array, value_to_find)
 end
 
 def find_max_value(array)
-x = 0  
-  while array[count] > array[count + 1]
-    count 
+
 end
 
 def find_min_value(array)
